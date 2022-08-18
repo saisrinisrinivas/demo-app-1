@@ -1,4 +1,4 @@
 # demo-app-1
-App for demo purposes
+App for Demonstration
 
 Preethi's Cluster
